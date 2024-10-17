@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/APIs/DBZ_API/static/css/main.d221dc40.css",
+    "main.js": "/APIs/DBZ_API/static/js/main.7b5a98c9.js",
+    "index.html": "/APIs/DBZ_API/index.html",
+    "main.d221dc40.css.map": "/APIs/DBZ_API/static/css/main.d221dc40.css.map",
+    "main.7b5a98c9.js.map": "/APIs/DBZ_API/static/js/main.7b5a98c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d221dc40.css",
+    "static/js/main.7b5a98c9.js"
+  ]
+}
